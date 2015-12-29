@@ -1,3 +1,5 @@
 # simplepdf
-<p>A QT base simple pdf reader. 
-using [poppler](http://poppler.freedesktop.org/) library</p>
+A QT base simple pdf reader.
+
+With [poppler](http://poppler.freedesktop.org) library.
+
